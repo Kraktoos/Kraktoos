@@ -1,7 +1,5 @@
-Hi 👋 My name is Kraktoos
-=========================
-
-Software Developer
+Hey! 👋
+I'm Kraktoos, a Software Engineer
 ------------------
 
 I'm a high school student and tech-passionate currently studying at Colégio de Gaia where I've been learning about general programming, OOP, databases, productivity applications and hardware. I love tech, programming, Linux, open-source, and privacy. Currently, I am learning about web development.
