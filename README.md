@@ -6,7 +6,7 @@ I'm a high school student and tech-passionate currently studying at Colégio de 
 
 *   🌍  I'm based in Portugal
 *   🖥️  See my portfolio at [kraktoos.com](http://kraktoos.github.io)
-*   ✉️  You can contact me at [kraktoos@gmail.com](mailto:kraktoos@gmail.com)
+*   ✉️  You can contact me at [me@kraktoos.com](mailto:me@kraktoos.com)
 *   🧠  I'm learning Web Development
 
 ### Skills 
