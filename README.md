@@ -1,8 +1,8 @@
 Hey! 👋
-I'm Kraktoos, a Software Engineer
+I'm Kraktoos, a Tech Enthusiast
 ------------------
 
-I'm a high school student and tech-passionate currently studying at Colégio de Gaia where I've been learning about general programming, OOP, databases, productivity applications and hardware. I love tech, programming, Linux, open-source, and privacy. Currently, I am learning about web development.
+I'm a high school student and tech-passionate currently studying at Colégio de Gaia where I've been learning about general programming, OOP, databases, productivity applications and hardware. I love tech, programming, Linux, open-source, and privacy. Currently, I am focused on learning about web & mobile development.
 
 * 🌍 I'm based in Portugal
 * 🖥️ See my portfolio at [kraktoos.com](http://kraktoos.com)
